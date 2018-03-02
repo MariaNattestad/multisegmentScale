@@ -1,0 +1,25 @@
+{
+  "name": "multi-segment-scale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaNattestad/multisegmentScale.git"
+  },
+  "keywords": [
+    "scale",
+    "d3",
+    "chromosome",
+    "segment"
+  ],
+  "author": "Maria Nattestad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaNattestad/multisegmentScale/issues"
+  },
+  "homepage": "https://github.com/MariaNattestad/multisegmentScale#readme"
+}
